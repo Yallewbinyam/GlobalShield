@@ -41,10 +41,11 @@ A cybersecurity app that automatically changes its interface to help different t
 ## Academic Info
 
 - **Course**: MSc Cyber Security (Ethical Hacking)
-- **University**: [Add your university name]
-- **Student**: [Add your name]
-- **Email**: [Add your email]
+- **University**: [Coventry university]
+- **Student**: [Binyam Yallew]
+- **Email**: [yallewb@coventry.ac.uk]
 - **Duration**: 12 months, 60 credits
+  **Usernamr github**: yallewbinyam
 
 ## Current Status
 

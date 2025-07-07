@@ -6,14 +6,24 @@
 **Week**: 1  
 **Last Updated**: [Add today's date]
 
-## ✅ This Week's Tasks
+## ✅ Completed Tasks - Week 1
 
-### Completed ✅
+### Project Setup
 
 - [x] Created project proposal document
-- [x] Built supervisor presentation
+- [x] Prepared supervisor presentation
 - [x] Set up VS Code project structure
-- [x] Created README and tracker files
+- [x] Organized all project files
+- [x] Submitted proposal to university
+- [x] Requested supervisor meeting
+
+### Next Week Goals
+
+- [ ] Supervisor meeting completed
+- [ ] Project officially approved
+- [ ] Ethics application submitted
+- [ ] Literature review started (5+ papers)
+- [ ] Partner organizations contacted
 
 ### In Progress 🔄
 
