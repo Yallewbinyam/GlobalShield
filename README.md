@@ -1,5 +1,8 @@
 # 🛡️ GlobalShield - Universal Cybersecurity Platform
 
+Universal Cybersecurity Platform for Diverse User Populations  
+MSc Individual Project
+
 ## What is GlobalShield?
 
 A cybersecurity app that automatically changes its interface to help different types of users:
@@ -33,19 +36,19 @@ A cybersecurity app that automatically changes its interface to help different t
 
 ## Timeline
 
-- **Months 1-3**: Research and planning
-- **Months 4-6**: Build core app
-- **Months 7-9**: Add advanced features
-- **Months 10-12**: Test and write report
+- **Months 1–3**: Research and planning
+- **Months 4–6**: Build core app
+- **Months 7–9**: Add advanced features
+- **Months 10–12**: Test and write report
 
 ## Academic Info
 
 - **Course**: MSc Cyber Security (Ethical Hacking)
-- **University**: [Coventry university]
-- **Student**: [Binyam Yallew]
-- **Email**: [yallewb@coventry.ac.uk]
+- **University**: Coventry University
+- **Student**: Binyam Yallew
+- **Email**: yallewb@coventry.ac.uk
+- **GitHub**: [Yallewbinyam](https://github.com/Yallewbinyam)
 - **Duration**: 12 months, 60 credits
-  **Usernamr github**: yallewbinyam
 
 ## Current Status
 
@@ -53,4 +56,4 @@ A cybersecurity app that automatically changes its interface to help different t
 
 ---
 
-_Last updated: [Add today's date]_
+_Last updated: July 7, 2025_
